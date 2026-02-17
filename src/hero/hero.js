@@ -60,7 +60,7 @@ const Hero=()=>{
 <div className={`${style.conte}`}>
 
 
-                <h3>THE BEST FITNESS S# added CLUB IN THE TOWN</h3>
+                <h3>THE BEST FITNESS  --- testnew is here  --- CLUB IN THE TOWN</h3>
 </div>
 
 
